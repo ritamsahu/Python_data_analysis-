@@ -1,4 +1,11 @@
+Gene Expression Data & presidential election polls
+
+
+
+
+
 Python Programming Assignment Problem 1: Gene Expression Data
+
 
 In this problem we will be using agene expressiondata set obtained from a microarray experiment Read more about the specific experiment here. There are two data sets we will use:
 The gene expression intensities where the rows represent the features on the microarray (e.g. genes) and the columns represent the different microarray samples.
@@ -23,6 +30,7 @@ Questions:
 
 
 Problem 2: Is there a pollster bias in presidential election polls?
+
 
 You will use the polls from the 2012 Presidential Elections to determine (1) Is there a pollster bias in presidential election polls? and
 (2) Is the average of polls better than just one poll?
